@@ -1,0 +1,2 @@
+2017-09-27 00:42:13,754 +0800 [Rick-akka.actor.default-dispatcher-2] INFO  (raspberry.java:12) - abc
+2017-09-27 00:42:13,781 +0800 [Rick-akka.actor.default-dispatcher-5] INFO  (Pi.java:30) - test
